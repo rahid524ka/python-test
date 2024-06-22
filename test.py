@@ -1,4 +1,4 @@
-a = 450
-b = 560
+a = 45
+b = 56
 sum = a+b
 print (sum)
