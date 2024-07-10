@@ -1,0 +1,5 @@
+this file is created for practice purpose for python programming
+I am a student of BS AI in city university 
+now I am try to learn python language 
+because it is necassary for me
+thats it
