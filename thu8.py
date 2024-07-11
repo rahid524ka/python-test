@@ -1,5 +1,5 @@
 def tri(base , height):
-    area = base *height
+    area = 0.5*base *height
     return area
 
 
